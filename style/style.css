@@ -1,0 +1,42 @@
+.profile{
+    width: 100px;
+    border-radius: 20px;
+    float: left;
+    margin-right: 10px;
+}
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #262533;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    color: aliceblue;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #F7AA27;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: aliceblue;
+}
+p{
+    font-size: 0.8em;
+    font-family: 'Montserrat', sans-serif;
+    color: aliceblue;
+}
+li{
+    font-family: 'Montserrat', sans-serif;
+    color: aliceblue;
+}
+button{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #262533;
+    background-color: #F7AA27;
+}
+button:hover{
+    background-color: #262533;
+    color: #F7AA27;
+}
